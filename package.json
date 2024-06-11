@@ -1,0 +1,30 @@
+{
+  "name": "vite-virtual-imports",
+  "version": "0.0.1",
+  "description": "Allows virtual imports in vite",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steps0x29a/vite-virtual-imports.git"
+  },
+  "keywords": [
+    "vite",
+    "build",
+    "import",
+    "virtual",
+    "plugin"
+  ],
+  "author": "steps0x29a (steps0x29@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steps0x29a/vite-virtual-imports/issues"
+  },
+  "homepage": "https://github.com/steps0x29a/vite-virtual-imports#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
